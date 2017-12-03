@@ -1,0 +1,83 @@
+1.Es un tipo de dato que se define de manera unica
+mediante un tipo y un conjunto dado de operaciones sobre ese tipo.
+R=TIPO DE DATO ABSTRACTO (TDA) 
+2.Consiste en representar las caracteristicas esenciales de una estructura de datos olvidandose de
+los detalles especificos de su implementacion.
+R=ABSTRACCION DE DATOS
+3.Es la construccion de un recipiente o forma de almacenamiento adecuado del TDA que se esta definiendo para
+poder manipularlo de forma correcta.
+R=ESTRUCTURA DE DATOS
+4.La especificacion logica de un TDA coniste de los puntos...
+R=CABECERA,DEFINICION,DESCRIPCION DE LAS OPERACIONES
+5.Las propiedades mas importantes del concepto objeto son:
+R=ABSTRACCION, ENCAPSULACION, MODULARIDAD, JERARQUIA, POLIMORFISMO
+6.Es una descripcion abstracta de un grupo de objetos, cada uno de los
+cuales se diferencia por el estado en el que se encuentran y por la posibilidad de realizar
+una serie de operaciones.
+R=CLASE
+7.Es la propiedad que permite asegurar que el contenido de la informacion de un objeto esta oculta al mundo exterior
+R=ENCAPSULACION
+8.Es la propiedad que permite subdividir una aplicacion en partes mas
+pequenas o modulos, cada una de las cuales debe ser tan independiente como sea posible
+de la aplicacion en si y de las restantes partes.
+R=MODULARIDAD
+9.Es el mecanismo que le permite a un objeto ser una instancia especifica de un
+caso mas general. 
+R=HERENCIA
+10.Es la propiedad que indica, literalmente, la posibilidad de que una entidad
+tome muchas formas.
+R=POLIMORFISMO
+11.Es la ilustracion de los diagramas de clases para visualizar la estructura de un sistema software.
+R=DIAGRAMA DE CLASES
+12.Las relaciones entre clases proporcionan un camino para la comunicacion entre objetos.A estas relaciones en UML se les llama...
+R=ASOCIACIONES
+13.Describe el proposito o capacidad para que una clase se pueda asociar con otra
+R=ROLE
+14.Es el punto de entrada principal para todas las aplicaciones de JAVA.
+R= metodo main()
+15.Es una coleccion de datos, y metodos que operan sobre esos datos. Los
+datos y los metodos en conjunto sirven para definir algun tipo de objeto.
+R=CLASE
+16.En JAVA todo objeto se crea dinamicamente con la palabra
+R=NEW
+17.Una vez creado un objeto se pueden utilizar sus campos de datos,variables de
+instancia o metidos de instancia de la siguiente forma
+R=OBJETO.*
+18.Su proposito es efectuar toda la inicializacion necesaria para el nuevo objeto.
+R=CONSTRUCTORES
+19.Es la palabra clave en JAVA para indicar que una variable particular es una variable de clase y no de instancia
+R=STATIC
+20.Cuando una clase se declara con el modificador _____, no es posible extender ni
+formar una subclase de la misma. 
+R=FINAL
+21.Un metodo ______ no tiene cuerpo sino solo una definicion de senal o firma
+seguida de un punto y coma.
+R=ABSTRACT
+22.Son modulos compuestos por un conjunto de metodos abstractos y
+constantes.
+R=INTERFACES
+23.Las _________ en Java son objetos de clases derivadas de la clase Throwable definida
+dentro del paquete java.lang.
+R=EXCEPCIONES
+24. Para que un metodo sea capaz de tratar una excepcion generada por la
+JVM, habra que encerrar las instrucciones en
+R=UN BLOQUE "TRY"
+25.Cualquier excepcion producida dentro de try sera analizado por...
+R=BLOQUES CATCH
+26.Son aplicaciones locales en JAVA que se ejecutan a traves del metodo
+main(Åc) en las cuales podemos incluir componentes que integran una interfaz grafica
+para comunicarse con el usuario final.
+R=FRAMES
+27. Son aplicaciones en JAVA (que no tienen un metodo main(Åc)) que se llaman
+dentro de una pagina WEB para su ejecucion, en las cuales podemos incluir
+componentes que integran una interfaz grafica para comunicarse con el usuario.
+R=APPLETS
+28.Un ______ es la ejecucion de una accion por parte del usuario sobre algun componente de
+la GUI de la aplicacion.
+R=EVENTO
+29.Para abrir un archivo, es necesario crear un objeto de una de estas clases, especificando el
+nombre del archivo como argumento del constructor.
+R=FILEINPUTSTREAM/FILEOUTPUTSTREAM
+30.Es una tecnica en la que una funcion o metodo se hace llamadas a si
+misma en el proceso de la realizacion de sus tareas.
+R=RECURSIVIDAD
